@@ -1,1 +1,7 @@
-# 2024_Weather_Bigdata_Contest_Fog
+# 2024 날씨 빅데이터 콘테스트
+## Team : 2419
+#### Team mate
+* 권병근
+* 이다인
+* 성다솜
+* 박민서
